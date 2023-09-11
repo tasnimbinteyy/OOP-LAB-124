@@ -1,0 +1,9 @@
+package labreport;
+
+  //created an interface with a getArea() method.
+   public interface Shape
+  {
+    public double getArea( );
+  }
+    
+
