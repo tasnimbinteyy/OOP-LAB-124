@@ -1,0 +1,10 @@
+package OOP_LAB;
+
+//Created an abstract class with two absract method.
+public abstract class Shape {
+    public abstract double area(double x,double y);
+    public abstract double perimeter(double x,double y);
+}
+
+
+
