@@ -23,16 +23,6 @@ import java.util.Scanner;
         return (result);
     }
    }
-    //Displays the result of the program.
- class Display {
-    public static void main(String[] args) {
-       
-       //Created the object of the Triangle class.
-       Triangle obj = new Triangle();
-       //Called the getArea() method.
-       System.out.println("Area = " +obj.getArea());
-       
-    }
 }
 
 
